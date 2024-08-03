@@ -1,5 +1,5 @@
 # 5th_sem_mini_project
-The mini project for 5th sem about automated water pump
+Developed a cattle management system for seamless user interactions and efficient administration. Showcasing creativity and technical skill, enhancing management efficiency and user experience.
 
 The Arduino board and the server must be on the same network for the program to run.
 
