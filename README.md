@@ -1,5 +1,5 @@
 # 5th_sem_mini_project
-Developed a cattle management system for seamless user interactions and efficient administration. Showcasing creativity and technical skill, enhancing management efficiency and user experience.
+Dive into the world of water management with our IoT-based project, WaterWatch. This project utilizes a closed-loop system to control a water pump and communicates with the backend using the local network. Stay informed about your water levels in real-time with WaterWatch.
 
 The Arduino board and the server must be on the same network for the program to run.
 
